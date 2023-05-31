@@ -93,13 +93,15 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-	  //if the IR Sensor reads low turn on LED
+	  //if the IR Sensor reads low (detects object) turn on red LED turn off green LED
 	  if(HAL_GPIO_ReadPin(GPIOA, GPIO_PIN_2) == 0){
 		  HAL_GPIO_WritePin(GPIOD, LD5_Pin, GPIO_PIN_SET);
+		  HAL_GPIO_WritePin(GPIOD, LD4_Pin, GPIO_PIN_RESET);
 	  }
-	  //if the IR Sensor reads high turn off the LED
+	  //if the IR Sensor reads high (doesn't detect) turn off the red LED turn on green LED
 	  if(HAL_GPIO_ReadPin(GPIOA, GPIO_PIN_2) == 1){
 		  HAL_GPIO_WritePin(GPIOD, LD5_Pin, GPIO_PIN_RESET);
+		  HAL_GPIO_WritePin(GPIOD, LD4_Pin, GPIO_PIN_SET);
 	  }
     /* USER CODE END WHILE */
 

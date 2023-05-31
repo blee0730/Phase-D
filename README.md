@@ -3,19 +3,15 @@
 ## Block Diagram
 
 ![Phase D Block Diagram 1 0](https://github.com/blee0730/Phase-D/assets/130094173/f3dff477-2593-4427-9e66-3f7c0faaa9d1)
-
 Version 1.0
 
 ![Phase D Block Diagram 2 0](https://github.com/blee0730/Phase-D/assets/130094173/b4d6585e-407b-4a9f-8a49-e6e2568c0cef)
-
 Version 2.0
 
 ![Phase D Block Diagram 3 0](https://github.com/blee0730/Phase-D/assets/130094173/1436fe25-11de-4031-bf53-b9eb61a6a0a4)
-
 Version 3.0
 
 ![Phase D Block Diagram 4 0](https://github.com/blee0730/Phase-D/assets/130094173/33a01f1a-ad40-431c-9edf-f53dc077f4f4)
-
 Version 4.0
 
 ![Voltage Divider for Thermistor](https://github.com/blee0730/Phase-D/assets/130094173/ecc47c75-8b69-4bac-a59c-cc1127ca1bc3)

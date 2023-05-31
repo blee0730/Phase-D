@@ -14,38 +14,30 @@ Version 3.0
 ![Phase D Block Diagram 4 0](https://github.com/blee0730/Phase-D/assets/130094173/33a01f1a-ad40-431c-9edf-f53dc077f4f4)
 Version 4.0
 
+### Voltage Divider for the Thermistor
 ![Voltage Divider for Thermistor](https://github.com/blee0730/Phase-D/assets/130094173/ecc47c75-8b69-4bac-a59c-cc1127ca1bc3)
 
-Voltage Divider for the Thermistor
-
+### Wheatstone Bridge for Pressure Sensor
 ![Wheatstone Bridge for Pressure Sensor](https://github.com/blee0730/Phase-D/assets/130094173/51760e69-420a-47d9-ae34-4f132e552f18)
-
-Wheatstone Bridge for Pressure Sensor
 
 ## PCB Board
 
+### Schematic
 ![Phase D Schematic](https://github.com/blee0730/Phase-D/assets/130094173/74684d78-e075-432f-8e79-778e51f684aa)
 
-Schematic
-
+### PCB Layout
 ![PCB Layout](https://github.com/blee0730/Phase-D/assets/130094173/1e4fef24-d5ae-41fe-91a5-a9f8a6cf4492)
 
-PCB Layout
-
+### Front of the PCB
 ![PCB Front](https://github.com/blee0730/Phase-D/assets/130094173/632a14e4-74c3-49fc-8c94-2584fcc92c25)
 
-Front of the PCB
-
+### Back of the PCB
 ![PCB Back](https://github.com/blee0730/Phase-D/assets/130094173/b26e6ded-98a3-44b3-87d0-9c555f11d510)
-
-Back of the PCB
 
 ## Code
 
+### IR Sensor Code
 //video
 
-IR Sensor Code
-
+### PWM LED Code
 //video
-
-PWM LED Code

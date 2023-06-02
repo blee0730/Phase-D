@@ -37,7 +37,8 @@ Version 4.0
 ## Code
 
 ### IR Sensor Code
-//video
+https://github.com/blee0730/Phase-D/assets/130094173/19ad71db-dc64-448e-8798-807aa19b2949
 
 ### PWM LED Code
-//video
+https://github.com/blee0730/Phase-D/assets/130094173/cb23821e-6d77-4987-bccd-ea015186dc90
+
